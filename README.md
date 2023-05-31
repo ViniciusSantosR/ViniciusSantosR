@@ -1,6 +1,8 @@
 ## Hi there, i'm Vinicius 👋
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/y5p0zrqbefnzsek79721mabpc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinniz.web?igshid=MzNlNGNkZWQ4Mg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-santos-ribeiro-9708b723b/)
 
 ![ViniciusSantosR GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantosR&show_icons=true&theme=dark)
 
