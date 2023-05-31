@@ -1,4 +1,4 @@
-## Hi there, i'm Vinícius ☕ 
+## Hi there, I'm Vinícius ☕ 
 ![mepixel](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/9af8ef24-9026-490b-9430-7c24712c96de) ![mepixelcode](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/f79c0b64-cc17-45b4-8eb3-2213091e95f7) ![coffee](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/3b764007-f5a4-4242-92de-3d33fd58cc10)
 
 
@@ -17,6 +17,7 @@
   <br><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white" />
 </div>
 
 
