@@ -1,4 +1,4 @@
-## Hi there, i'm Vinícius 👋
+## Hi there, i'm Vinícius ☕ 
 ![mepixel](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/9af8ef24-9026-490b-9430-7c24712c96de) ![mepixelcode](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/f79c0b64-cc17-45b4-8eb3-2213091e95f7) ![coffee](https://github.com/ViniciusSantosR/ViniciusSantosR/assets/123562703/3b764007-f5a4-4242-92de-3d33fd58cc10)
 
 
