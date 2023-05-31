@@ -1,2 +1,2 @@
 ### Hi there 👋
-![ViniciusSantosR GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![ViniciusSantosR GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantosR&show_icons=true&theme=dark)
